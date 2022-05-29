@@ -2,15 +2,6 @@ song and song lallala la la
 bla bla 
 new lion 28.05.22
 one more lion
-<<<<<<< HEAD
 
-New content Here
-And here 
 
-New new content 
-
-So so so so 
-=======
->>>>>>> 4f0385a996ee2ac7ded07d2a17a74183c856f549
-
-Wrong delate
+New new new ___ new
