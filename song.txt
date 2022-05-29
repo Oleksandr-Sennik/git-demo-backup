@@ -14,3 +14,5 @@ So so so so
 >>>>>>> 4f0385a996ee2ac7ded07d2a17a74183c856f549
 
 Wrong delate
+
+Feature and text for this leson
